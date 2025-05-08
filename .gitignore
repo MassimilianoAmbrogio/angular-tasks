@@ -5,8 +5,6 @@
 /tmp
 /out-tsc
 /bazel-out
-/user.name
-/user.email
 
 # Node
 /node_modules
